@@ -152,5 +152,5 @@ PointRCNN detection and tracking run as a single integrated pipeline (confidence
 The content of this repository is provided for academic and research purposes only. The results and conclusions presented are based on specific models and techniques as detailed in the thesis. While every effort has been made to ensure the accuracy of the data and findings, variations may occur depending on the context and application of these methods. Users are advised to apply the information contained in this repository at their own discretion and risk.
 
 --
-##Copyright
+## Copyright
 © 2026 Ankush Mehra. All rights reserved. Unauthorized use of the materials contained in this repository without permission is strictly prohibited.

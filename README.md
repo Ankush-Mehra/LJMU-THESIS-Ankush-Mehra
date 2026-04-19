@@ -1,5 +1,4 @@
-3D Object Detection and Multi-Object Tracking on KITTI
-
+4D PERCEPTION: 3D MULTI-OBJECT DETECTION AND TRACKING
 
 ---
 

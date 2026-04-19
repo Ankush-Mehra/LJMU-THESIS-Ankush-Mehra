@@ -130,8 +130,6 @@ PointRCNN detection and tracking run as a single integrated pipeline (confidence
 > **Section summary:** All three integrated pipelines replicate the MOTA ordering from Study 2 — Det+DeepSORT > Det+Kalman > Det+SORT. Detection precision remains high across all pipelines (Car >0.82), showing tracker feedback does not degrade detection quality at threshold 0.5. The Cyclist class remains the hardest to track in the live pipeline setting — SORT produces near-zero Cyclist MOTA (0.0954) reflecting the combined effect of low PointRCNN Cyclist recall (60.7%) and SORT's heading-agnostic design. DeepSORT's Cyclist MOTA of 0.5012 is the strongest pipeline result, highlighting that appearance-based re-identification provides its largest relative benefit on the rarest and most geometrically distinctive class.
 
 ---
-## Disclaimer
-The content of this repository is provided for academic and research purposes only. The results and conclusions presented are based on specific models and techniques as detailed in the thesis. While every effort has been made to ensure the accuracy of the data and findings, variations may occur depending on the context and application of these methods. Users are advised to apply the information contained in this repository at their own discretion and risk.
 
 
 ---
@@ -150,3 +148,5 @@ The content of this repository is provided for academic and research purposes on
 | ByteTrack | Zhang et al., *ByteTrack: Multi-Object Tracking by Associating Every Detection Box*, ECCV 2022 |
 
 ---
+## Disclaimer
+The content of this repository is provided for academic and research purposes only. The results and conclusions presented are based on specific models and techniques as detailed in the thesis. While every effort has been made to ensure the accuracy of the data and findings, variations may occur depending on the context and application of these methods. Users are advised to apply the information contained in this repository at their own discretion and risk.
